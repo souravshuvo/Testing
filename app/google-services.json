@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "4528141801",
+    "project_id": "testingproject-b9d4e",
+    "storage_bucket": "testingproject-b9d4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4528141801:android:c3c23179d6d7089b8b4778",
+        "android_client_info": {
+          "package_name": "com.grozziie.testing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4528141801-t6cfose7m7qnio9o1eqgtuf23db0hit1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAUy6VmL4WrOEjHgW6Qaf-o7jonBT8QQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4528141801-t6cfose7m7qnio9o1eqgtuf23db0hit1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
